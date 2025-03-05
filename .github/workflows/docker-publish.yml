@@ -23,7 +23,7 @@ env:
 
 jobs:
   integration:
-    uses:  github-ci-repo-1/.github/workflows/python-app.yml@main
+    uses:  FrauleinGela/github-ci-repo-1/.github/workflows/python-app.yml@main
   build:
     needs: [integration]      
     runs-on: ubuntu-latest
