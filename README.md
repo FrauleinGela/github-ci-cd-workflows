@@ -23,4 +23,3 @@ The team has asked you to help them set up a repo for the integration workflow s
     This requirement is partially completed in the previous step by adding the starter workflow.
 
     However, the workflow still needs to be modified so the build and publish steps run _after_ the integration tests.
-
